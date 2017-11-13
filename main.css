@@ -1,0 +1,22 @@
+.box {
+  margin:0,0;
+  border:0; solid red;
+  padding: 50px;
+  background-color: red;
+  margin-right: 1000px;
+
+}
+.box1 {
+  border: 30px solid purple;
+  padding: 45px;
+  background-color: purple;
+  margin-top: 10px;
+  margin-right: 100px;
+}
+.box2 {
+  border: 10px solid yellow;
+  padding: 20px;
+  background-color: yellow;
+
+  margin-right: 50px;
+}
